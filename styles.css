@@ -1,0 +1,93 @@
+body{
+  background-color: rgb(235, 229, 220);
+  margin: 890px 10%;
+  border: 1px solid black;
+  position: relative;  
+}
+
+
+@media screen and (min-width: 768px) {
+  body {
+    background-color: lightgreen;
+    margin: 25px 6%;
+    max-width: 768;
+   
+  }
+
+
+h1{color: rgb(98, 77, 216);
+    font: size 1.5em;
+    margin: 1.5em;
+    text-align: center;
+    font-style: italic;
+    font-family:fantasy;}
+
+  ul{
+    color:red;
+  }
+  body{background-color:rgb(240, 240, 231);
+}
+#title{
+    color: rgb(17, 15, 15);
+    display: block;
+    margin-bottom: 60px;
+    padding-top: 35px;
+  }
+  .subtitle{
+    color: green;
+  }
+  p{text-align: justify;
+
+  }
+.carrebleu{
+    background-color: azure;
+}
+
+.Menu{
+    background-color: rgb(223, 172, 33);
+    padding: 15px;
+    }
+  
+    ul{font-size: 25px;
+      font-size: 25px;
+      font-stretch: expanded;
+    text-align: center;
+  
+  }
+
+a{
+    margin: 30px;
+    color: blanchedalmond;
+    font-size: 20px;                                                                                                                                                                                                                                                                                                                                             
+    text-align: center;
+  
+}
+.Centrage{
+  /* width: 700px; */
+margin: auto;
+padding-right: 60px;
+}
+.Logo{ float: left;
+display: block;
+}
+.Conteneur1{
+}  
+
+.footer{
+
+  
+}
+/*.TONER{display: inline-block;} */
+
+figure{
+  background-color: rgb(230, 219, 219);
+  border-radius: 5px;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.8em;
+}
